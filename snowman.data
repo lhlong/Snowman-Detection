@@ -1,0 +1,5 @@
+classes= 1
+train  = snowman_train.txt
+valid  = snowman_train.txt
+names  = snowman.names
+backup = models
